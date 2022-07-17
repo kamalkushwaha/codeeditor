@@ -1,3 +1,3 @@
 ### Demo
 
-https://code-sync.kamal.com/
+https://code-sync.codersgyan.com/
